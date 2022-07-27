@@ -20,9 +20,13 @@
 // console.log('This is regular display', fruits)
 // console.log('This is spread', ... fruits)
 
-const chickenEgg = ['🥚', '🐓'].sort()
+// const chickenEgg = ['🥚', '🐓'].sort()
 
-console.log(`The ${chickenEgg[0]} came first!`)
+// console.log(`The ${chickenEgg[0]} came first!`)
+
+// const addition = (a, b) => a + b;
+
+// console.log(addition(2,6))
 
 
 
